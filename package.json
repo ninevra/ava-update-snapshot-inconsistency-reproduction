@@ -2,6 +2,7 @@
   "name": "ava-update-snapshot-inconsistency-reproduction",
   "version": "0.0.0",
   "private": true,
+  "description": "reproduces avajs/ava#2636",
   "type": "module",
   "scripts": {
     "test": "ava",
