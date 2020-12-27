@@ -1,0 +1,13 @@
+{
+  "name": "ava-update-snapshot-inconsistency-reproduction",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "ninevra",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.14.0"
+  }
+}
