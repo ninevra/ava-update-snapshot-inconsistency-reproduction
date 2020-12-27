@@ -2,8 +2,10 @@
   "name": "ava-update-snapshot-inconsistency-reproduction",
   "version": "0.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "start": "echo \"Running normally\" && ava; echo \"\\nRunning with updates\" && ava -u"
   },
   "author": "ninevra",
   "license": "ISC",
